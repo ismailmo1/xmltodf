@@ -1,0 +1,5 @@
+venv
+exports
+.vscode
+xml_batch.xml
+.csv
